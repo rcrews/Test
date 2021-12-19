@@ -11,5 +11,6 @@ require "Test"
 # require "pry"
 # Pry.start
 
-require "irb"
-IRB.start(__FILE__)
+# require "irb"
+# IRB.start(__FILE__)
+Test::Test.rb
