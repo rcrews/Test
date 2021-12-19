@@ -1,7 +1,7 @@
-require:
-  rubocop-performance
-  rubocop-rspec
-  rubocop-rake
+#require:
+ # rubocop-performance
+  #rubocop-rspec
+  #rubocop-rake
 
 AllCops:
   TargetRubyVersion: 2.6
