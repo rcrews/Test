@@ -1,0 +1,108 @@
+---
+- name: Mitra Mohsenian
+  location: US-California-Remote
+
+- name: Sarah Olson
+  location: US-California-Remote
+
+- name: Brian Burton
+  location: US-Utah-Remote
+
+- name: Rita McKissick
+  location: US-Oregon-Remote
+
+- name: Vanessa Menzies-Flint [C]
+  location: US-California-Remote
+
+- name: William Clemens
+  location: US-California-San Francisco
+
+- name: Thiriguna Rao
+  location: India-Bangalore (HWX)
+
+- name: Arpita Talukder
+  location: India-Bangalore (HWX)
+
+- name: Asha Kadam
+  location: India-Bangalore (HWX)
+
+- name: Biplab Chakraborty
+  location: India-Bangalore
+
+- name: Divya M N
+  location: India-Bangalore (HWX)
+
+- name: Jankiram Balakrishnan
+  location: India-Bangalore
+
+- name: Lavanya Subash
+  location: India-Bangalore
+
+- name: Pranay R
+  location: India-Bangalore (HWX)
+
+- name: Priyanka Chheda
+  location: India-Bangalore (HWX)
+
+- name: Sairam Dwarakanath Yalandur
+  location: India-Bangalore (HWX)
+
+- name: Srinivas Sudhindra
+  location: India-Karnataka-Remote
+
+- name: Feher Ildiko
+  location: US-California-Remote
+
+- name: Gombos Tamas
+  location: Hungary-Budapest
+
+- name: Kadar Liliana
+  location: Hungary-Budapest
+
+- name: Kertesz Miklos
+  location: Hungary-Budapest
+
+- name: Lillin Matyas
+  location: Hungary-Budapest
+
+- name: Marsal Dóra
+  location: Hungary-Budapest
+
+- name: Tóth-Major Dóra
+  location: Hungary-Budapest
+
+- name: Coral Waters
+  location: US-Texas-Austin
+
+- name: David Hoyle
+  location: US-Massachusetts-Remote
+
+- name: Diane Warner
+  location: US-California-Santa Clara (HQ)
+
+- name: Dominika Bialek
+  location: US-California-Santa Clara (HQ)
+
+- name: Edward Rawlings
+  location: US-California-San Francisco
+
+- name: Jason Davis
+  location: US-California-San Francisco
+
+- name: Jennifer Osburn
+  location: US-Texas-Austin
+
+- name: Kristine Hahn
+  location: US-California-San Francisco
+
+- name: Lesley Palmer
+  location: US-California-Santa Clara 2
+
+- name: Michael Hovermale
+  location: US-California-Remote
+
+- name: Robert Crews
+  location: US-California-Santa Clara (HQ)
+
+- name: ShajiniRetna Thayasingh
+  location: US-California-Santa Clara (HQ)
