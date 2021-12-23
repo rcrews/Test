@@ -1,37 +1,37 @@
-Name,
-Mitra Mohsenian,
-Sarah Olson,
-Brian Burton,
-Rita McKissick,
-Vanessa Menzies-Flint,
-William Clemens,
-Thiriguna Rao,
-Arpita Talukder,
-Asha Kadam,
-Biplab Chakraborty,
-Divya M N,
-Jankiram Balakrishnan,
-Lavanya Subash,
-Pranay R,
-Priyanka Chheda,
-Sairam Dwarakanath Yalandur,
-Srinivas Sudhindra,
-Ildiko Feher,
-Tamas Gombos,
-Liliana Kadar,
-Miklos Kertesz,
-Matyas Lillin,
-Dóra Marsal,
-Dóra Tóth-Major,
-Coral Waters,
-David Hoyle,
-Diane Warner,
-Dominika Bialek,
-Edward Rawlings,
-Jason Davis,
-Jennifer Osburn,
-Kristine Hahn,
-Lesley Palmer,
-Michael Hovermale,
-Robert Crews,
-ShajiniRetna Thayasingh,
+Name,Specialties
+Mitra Mohsenian,Managing
+Sarah Olson,Managing NiFi NiFi Registry
+Brian Burton,Data Engineering Spark
+Rita McKissick,CDSW CML Metron Spot
+Vanessa Menzies-Flint,CFM
+William Clemens,CDSW CML
+Thiriguna Rao,Managing HBase
+Arpita Talukder,SMM MiNiFi
+Asha Kadam,Editing
+Biplab Chakraborty,Phoenix HBase
+Divya M N,YARN Kubernetes Docker Oozie
+Jankiram Balakrishnan,Operational Database
+Lavanya Subash,BDR Replication Manager DLM
+Pranay R,Installation Release Notes Ambari AM2CM
+Priyanka Chheda,Hue Navigator Optimizer
+Sairam Dwarakanath Yalandur,Management Console HDFS Ozone
+Srinivas Sudhindra,DPP Data Catalog Atlas
+Ildiko Feher,Managing Data Viz
+Tamas Gombos,Data Viz
+Liliana Kadar,Safari Kudu Accumulo ZooKeeper HBase
+Miklos Kertesz,Zepplin Spark Livy
+Matyas Lillin,Kafka SRM
+Dóra Marsal,Flink Cruise Control
+Dóra Tóth-Major,Illustrating
+Coral Waters,-
+David Hoyle,CDP as a Service
+Diane Warner,Ranger Sentry Spark KTS Navigator DSS Knox
+Dominika Bialek,Management Console
+Edward Rawlings,Cloudera Manager
+Jason Davis,Programming DevOps
+Jennifer Osburn,Data Hub Cloudbreak Altus Director
+Kristine Hahn,Hive Praquet ORC Avro Druid Pig DAS Sqoop
+Lesley Palmer,Workload Manager
+Michael Hovermale,Ranger Sentry Spark KTS Navigator DSS
+Robert Crews,Programming DevOps
+ShajiniRetna Thayasingh,Impala
